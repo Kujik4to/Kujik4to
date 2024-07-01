@@ -41,10 +41,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-![snake animation](https://github.com/kujik4to/kujik4to/blob/output/github-contribution-grid-snake2.svg)
-
-###
